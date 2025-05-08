@@ -1,3 +1,5 @@
+import { FaRegFileArchive } from "react-icons/fa";
+
 const Contact = () => {
     return (
       <div>
@@ -8,4 +10,6 @@ const Contact = () => {
   };
   
   export default Contact;
+
+  
   
